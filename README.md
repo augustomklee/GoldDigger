@@ -6,6 +6,8 @@ A real-time gold investment tracking application built with vanilla Node.js, fea
 
 GoldDigger enables users to track gold investments with real-time price updates, calculate gold quantities based on current market rates, and automatically generate comprehensive investment reports in PDF format.
 
+https://github.com/user-attachments/assets/56977dd7-d403-4902-b39d-df4d7272b70c
+
 ## Core Features
 
 - **Real-Time Price Updates**: Live gold prices streamed using Server-Sent Events (SSE) with automatic reconnection handling
